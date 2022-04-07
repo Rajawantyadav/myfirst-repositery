@@ -1,0 +1,14 @@
+username:root
+password:
+database:librarymanagement
+---------------------------------------------
+tables:no primary key and foreign key
+and every datatype should be 
+1-admin:
+   username,password
+2-book:
+    String bookId, name, author, publisher, quantity
+3:li
+    name,email,password,city,contact
+4:issuebook
+   String bookId, String BookName, String StudentId,StudentName,StudentContact
